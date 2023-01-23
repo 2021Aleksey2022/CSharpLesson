@@ -1,0 +1,8 @@
+E:\dz_c#\ProgressCode\Progress\bin\Debug\Progress.exe.config
+E:\dz_c#\ProgressCode\Progress\bin\Debug\Progress.exe
+E:\dz_c#\ProgressCode\Progress\bin\Debug\Progress.pdb
+E:\dz_c#\ProgressCode\Progress\obj\Debug\Progress.csproj.AssemblyReference.cache
+E:\dz_c#\ProgressCode\Progress\obj\Debug\Progress.csproj.SuggestedBindingRedirects.cache
+E:\dz_c#\ProgressCode\Progress\obj\Debug\Progress.csproj.CoreCompileInputs.cache
+E:\dz_c#\ProgressCode\Progress\obj\Debug\Progress.exe
+E:\dz_c#\ProgressCode\Progress\obj\Debug\Progress.pdb
