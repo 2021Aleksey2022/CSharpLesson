@@ -1,0 +1,13 @@
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.SuggestedBindingRedirects.cache
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\Utilis.dll
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\Utilis.pdb
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CopyComplete
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\ClassSwitch.dll
+E:\dz_c#\ProgressCode\Lesson3\Lesson3\bin\Debug\ClassSwitch.pdb
