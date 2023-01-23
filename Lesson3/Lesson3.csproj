@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A3A1E04-1FD1-43E4-A213-6BCBF7F393C3}</ProjectGuid>
+    <ProjectGuid>{D4ED68BA-0562-407B-834C-9C59971586A0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Progress</RootNamespace>
-    <AssemblyName>Progress</AssemblyName>
+    <RootNamespace>Lesson3</RootNamespace>
+    <AssemblyName>Lesson3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Lesson3.Sample03</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,11 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lesson1.cs" />
+    <Compile Include="DzSwitch.cs" />
+    <Compile Include="Sample01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sample02.cs" />
+    <Compile Include="Sample03.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\manay\Desktop\Utilis\Utilis.csproj">
+      <Project>{84be58e3-9f83-455d-a031-fe862c048bb3}</Project>
+      <Name>Utilis</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\manay\Desktop\Utilits\ClassSwitch\ClassSwitch.csproj">
+      <Project>{7b856e7f-85a8-44b5-8d09-d9d33821c374}</Project>
+      <Name>ClassSwitch</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
