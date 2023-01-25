@@ -1,0 +1,9 @@
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\obj\Debug\Lesson4.csproj.SuggestedBindingRedirects.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\obj\Debug\Lesson4.pdb
+C:\Users\manay\Desktop\CSharpLesson\Solution4\Lesson4\bin\Debug\ArrayList1.txt
