@@ -1,0 +1,8 @@
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\bin\Debug\Lesson5.exe.config
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\bin\Debug\Lesson5.exe
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\bin\Debug\Lesson5.pdb
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\obj\Debug\Lesson5.csproj.AssemblyReference.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\obj\Debug\Lesson5.csproj.SuggestedBindingRedirects.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\obj\Debug\Lesson5.exe
+C:\Users\manay\Desktop\CSharpLesson\Solution5\Lesson5\obj\Debug\Lesson5.pdb
