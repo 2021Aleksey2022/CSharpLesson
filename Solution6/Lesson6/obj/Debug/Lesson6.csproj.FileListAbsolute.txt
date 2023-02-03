@@ -1,0 +1,9 @@
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\bin\Debug\Lesson6.exe.config
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\bin\Debug\Lesson6.exe
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\bin\Debug\Lesson6.pdb
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\obj\Debug\Lesson6.csproj.AssemblyReference.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\obj\Debug\Lesson6.csproj.SuggestedBindingRedirects.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\obj\Debug\Lesson6.exe
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\obj\Debug\Lesson6.pdb
+C:\Users\manay\Desktop\CSharpLesson\Solution6\Lesson6\bin\Debug\UserList.txt
